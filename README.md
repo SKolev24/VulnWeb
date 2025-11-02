@@ -6,7 +6,7 @@ This project is a deliberately vulnerable web application built with Django. It 
 
 **Purpose**
 
-Created as part of a personal learning process and portfolio project for internship applications. The focus is on hands-on exploration of web security principles through practical implementation.
+Created as part of a personal learning process. The focus is on hands-on exploration of web security principles through practical implementation.
 
 **Technologies**
 
